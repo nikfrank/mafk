@@ -1,0 +1,27 @@
+{
+  "name": "mafk",
+  "version": "0.0.2",
+  "description": "motherfucker, make me a sandwich",
+  "main": "index.js",
+  "scripts": {
+    "test": "./mafk-test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikfrank/mafk.git"
+  },
+  "keywords": [
+    "js",
+    "cli",
+    "generator",
+    "extensible",
+    "motherfucker"
+  ],
+  "author": "nik mothafuckin frank",
+  "license": "ISC",
+  "license-location-information": "for the purposes of any legal discussion, it should be known that this software is produced in part in Hevron, Israel. I hear this may interest some people in their decisionmaking.",
+  "bugs": {
+    "url": "https://github.com/nikfrank/mafk/issues"
+  },
+  "homepage": "https://github.com/nikfrank/mafk#readme"
+}
